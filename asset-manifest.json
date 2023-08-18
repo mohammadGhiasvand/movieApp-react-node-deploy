@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movieApp-react-node-deploy/static/css/main.9238b215.css",
-    "main.js": "/movieApp-react-node-deploy/static/js/main.52ccb6f1.js",
+    "main.js": "/movieApp-react-node-deploy/static/js/main.e7cece20.js",
     "static/media/dummyTrailer.mp4": "/movieApp-react-node-deploy/static/media/dummyTrailer.f73d6605fc697a183723.mp4",
     "static/media/MovieLogo.png": "/movieApp-react-node-deploy/static/media/MovieLogo.fc254ed412371b32ab68.png",
     "static/media/home.jpg": "/movieApp-react-node-deploy/static/media/home.50437ccc5be095543be4.jpg",
@@ -9,10 +9,10 @@
     "static/media/Logo.png": "/movieApp-react-node-deploy/static/media/Logo.77ba64d8813d5a26e7e7.png",
     "index.html": "/movieApp-react-node-deploy/index.html",
     "main.9238b215.css.map": "/movieApp-react-node-deploy/static/css/main.9238b215.css.map",
-    "main.52ccb6f1.js.map": "/movieApp-react-node-deploy/static/js/main.52ccb6f1.js.map"
+    "main.e7cece20.js.map": "/movieApp-react-node-deploy/static/js/main.e7cece20.js.map"
   },
   "entrypoints": [
     "static/css/main.9238b215.css",
-    "static/js/main.52ccb6f1.js"
+    "static/js/main.e7cece20.js"
   ]
 }
