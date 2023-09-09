@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movieApp-react-node-deploy/static/css/main.9238b215.css",
-    "main.js": "/movieApp-react-node-deploy/static/js/main.40cc56c9.js",
+    "main.css": "/movieApp-react-node-deploy/static/css/main.2f550eb7.css",
+    "main.js": "/movieApp-react-node-deploy/static/js/main.06c7d473.js",
     "static/media/dummyTrailer.mp4": "/movieApp-react-node-deploy/static/media/dummyTrailer.f73d6605fc697a183723.mp4",
     "static/media/MovieLogo.png": "/movieApp-react-node-deploy/static/media/MovieLogo.fc254ed412371b32ab68.png",
     "static/media/home.jpg": "/movieApp-react-node-deploy/static/media/home.50437ccc5be095543be4.jpg",
     "static/media/backgroundImage.jpg": "/movieApp-react-node-deploy/static/media/backgroundImage.9673a5d8d466c60a3692.jpg",
     "static/media/Logo.png": "/movieApp-react-node-deploy/static/media/Logo.77ba64d8813d5a26e7e7.png",
     "index.html": "/movieApp-react-node-deploy/index.html",
-    "main.9238b215.css.map": "/movieApp-react-node-deploy/static/css/main.9238b215.css.map",
-    "main.40cc56c9.js.map": "/movieApp-react-node-deploy/static/js/main.40cc56c9.js.map"
+    "main.2f550eb7.css.map": "/movieApp-react-node-deploy/static/css/main.2f550eb7.css.map",
+    "main.06c7d473.js.map": "/movieApp-react-node-deploy/static/js/main.06c7d473.js.map"
   },
   "entrypoints": [
-    "static/css/main.9238b215.css",
-    "static/js/main.40cc56c9.js"
+    "static/css/main.2f550eb7.css",
+    "static/js/main.06c7d473.js"
   ]
 }
